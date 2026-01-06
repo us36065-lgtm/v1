@@ -4,7 +4,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 // ĐỔI domain mới của bạn ở đây:
-const NEW_BASE = "https://kasimeledak.xgo88bola.cyou";
+const NEW_BASE = "https://kasimeledak.xgo88bola.cyou/mobile/register?ref=kasihjpmax";
 
 app.use((req, res) => {
   // giữ nguyên path + query
